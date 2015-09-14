@@ -1,5 +1,6 @@
 require './product_detail'
 require './tax_calculation'
+
 class Txtfile
 	def initialize file_name
 		@file_name = file_name
