@@ -1,0 +1,9 @@
+flu medicine,20,2
+science books,12,20
+fast foods,100,15
+programing ruby books,25,20
+cd music,46,14
+chocolate,25,17
+imported candy crus,23,5
+imported laptop vaio fit,25,1200
+imported clock,25,1450

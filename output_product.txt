@@ -1,0 +1,29 @@
+Product: flu medicine
+ Quantity: 20 - Price: 2$ - Tax fee for 1 prodcut: 0.0
+
+Product: science books
+ Quantity: 12 - Price: 20$ - Tax fee for 1 prodcut: 0.0
+
+Product: fast foods
+ Quantity: 100 - Price: 15$ - Tax fee for 1 prodcut: 0.0
+
+Product: programing ruby books
+ Quantity: 25 - Price: 20$ - Tax fee for 1 prodcut: 0.0
+
+Product: cd music
+ Quantity: 46 - Price: 14$ - Tax fee for 1 prodcut: 1.4
+
+Product: chocolate
+ Quantity: 25 - Price: 17$ - Tax fee for 1 prodcut: 1.7
+
+Product: imported candy crus
+ Quantity: 23 - Price: 5$ - Tax fee for 1 prodcut: 0.75
+
+Product: imported laptop vaio fit
+ Quantity: 25 - Price: 1200$ - Tax fee for 1 prodcut: 180.0
+
+Product: imported clock
+ Quantity: 25 - Price: 1450$ - Tax fee for 1 prodcut: 217.5
+
+Total tax fee: 10061.65$
+Total: 79775.65$
