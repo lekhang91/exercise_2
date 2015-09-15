@@ -48,6 +48,8 @@ tax_calcul = TaxCalculation.new(arr_product)
 
 puts "Total tax fee: #{tax_calcul.total_tax(arr_product)}$"
 puts "Total: #{tax_calcul.product_tax(arr_product)}$"
+
 # product detail and total tax fee
+
 out_file = Txtfile.new("output_product.txt")
 out_file.write_output_file(arr_product, tax_calcul)
